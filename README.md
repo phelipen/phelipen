@@ -6,7 +6,7 @@ Me chamo Phelipe Nascimento, sou estudante de **Análise e Desenvolvimento de Si
 
 Tenho interesse em criar soluções práticas, funcionais e bem estruturadas, unindo tecnologia, aprendizado constante e resolução de problemas reais. Atualmente venho desenvolvendo projetos próprios, como o **Xerox AV.7**, uma aplicação web full-stack voltada para organização e automação de serviços.
 
-Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end e ferramentas essenciais para criação de aplicações completas. Também possuo **inglês avançado** e estou sempre buscando evoluir como desenvolvedor, aprendendo novas tecnologias e aplicando esse conhecimento em projetos reais.
+Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end, banco de dados e serviços em nuvem com **AWS**, incluindo **S3**, **RDS** e **EC2**. Também possuo **inglês avançado** e estou sempre buscando evoluir como desenvolvedor, aprendendo novas tecnologias e aplicando esse conhecimento em projetos reais.
 
 <p align="left">
     <a href="https://xeroxav7.tech" target="_blank">
@@ -51,6 +51,14 @@ Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="AWS"
+    title="AWS" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
 />
 <img 
     align="left" 
@@ -114,6 +122,15 @@ Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boo
 
 ---
 
+### ☁️ Conhecimentos em Cloud
+
+- AWS S3 para armazenamento de arquivos
+- AWS RDS para banco de dados relacional
+- AWS EC2 para hospedagem e gerenciamento de servidores
+- Noções de deploy, infraestrutura e integração entre aplicação e serviços em nuvem
+
+---
+
 ### 🚀 Projeto em destaque
 
 #### Xerox AV.7 — Aplicação Web Full-Stack
@@ -127,6 +144,7 @@ O **Xerox AV.7** é uma aplicação web desenvolvida para facilitar a organizaç
 ### 📚 Atualmente estudando
 
 - Java e Spring Boot
+- AWS, S3, RDS e EC2
 - Desenvolvimento Full Stack
 - Estruturação de aplicações web
 - Banco de dados
@@ -138,19 +156,18 @@ O **Xerox AV.7** é uma aplicação web desenvolvida para facilitar a organizaç
 
 ### 📊 Estatísticas
 
-<p>
+<div align="left">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=phelipen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api?username=phelipen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
   />
+</div>
 
+<br/>
+
+<div align="left">
   <img 
-    align="left" 
-    alt="Linguagens mais usadas" 
-    height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    height="180em" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipen&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20usadas&langs_count=8"
   />
-</p>
+</div>
