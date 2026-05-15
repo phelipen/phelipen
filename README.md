@@ -1,8 +1,8 @@
 # 👨🏻‍💻 Phelipe Nascimento
 
-**`Desenvolvedor Full Stack em formação`**
+**`Desenvolvedor Full Stack`**
 
-Me chamo Phelipe Nascimento, sou estudante de **Análise e Desenvolvimento de Sistemas** na Uninter e estou construindo minha trajetória na área de tecnologia com foco em **desenvolvimento web, programação e inteligência artificial**.
+Me chamo Phelipe Nascimento, sou estudante de **Análise e Desenvolvimento de Sistemas** na Uninter e estou construindo minha trajetória na área de tecnologia com foco em **desenvolvimento web full-stack**.
 
 Tenho interesse em criar soluções práticas, funcionais e bem estruturadas, unindo tecnologia, aprendizado constante e resolução de problemas reais. Atualmente venho desenvolvendo projetos próprios, como o **Xerox AV.7**, uma aplicação web full-stack voltada para organização e automação de serviços.
 
