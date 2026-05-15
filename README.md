@@ -4,9 +4,9 @@
 
 Me chamo Phelipe Nascimento, sou estudante de **Análise e Desenvolvimento de Sistemas** na Uninter e estou construindo minha trajetória na área de tecnologia com foco em **desenvolvimento web full-stack**.
 
-Tenho interesse em criar soluções práticas, funcionais e bem estruturadas, unindo tecnologia, aprendizado constante e resolução de problemas reais. Atualmente venho desenvolvendo projetos próprios, como o **Xerox AV.7**, uma aplicação web full-stack voltada para organização e automação de serviços.
+Tenho interesse em criar soluções práticas, funcionais e bem estruturadas, que possam agregar a sociedade e fazer a diferença resolvendo problemas reais. Atualmente venho desenvolvendo projetos, como o **Xerox AV.7**, uma aplicação web full-stack voltada para organização e automação de serviços utilizado numa gráfica.
 
-Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end, bancos de dados como **PostgreSQL** e **MySQL**, e serviços em nuvem com **AWS**, incluindo **S3**, **RDS** e **EC2**. Também possuo **inglês avançado** e estou sempre buscando evoluir como desenvolvedor, aprendendo novas tecnologias e aplicando esse conhecimento em projetos reais.
+Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end como **React**, bancos de dados como **PostgreSQL** e **MySQL**, e serviços em nuvem com **AWS**, incluindo **S3**, **RDS** e **EC2**. Também possuo **inglês avançado**. Estou sempre buscando evoluir como desenvolvedor e alguém que enxerga além da codificação.
 
 <p align="left">
     <a href="https://xeroxav7.tech" target="_blank">
@@ -178,23 +178,3 @@ O **Xerox AV.7** é uma aplicação web desenvolvida para facilitar a organizaç
 - Inteligência Artificial
 - Boas práticas de programação
 - Versionamento com Git e GitHub
-
----
-
-### 📊 Estatísticas
-
-<div align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api?username=phelipen&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&locale=pt-br"
-  />
-</div>
-
-<br/>
-
-<div align="left">
-  <img 
-    height="180em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipen&theme=tokyonight&layout=compact&custom_title=Tecnologias%20mais%20usadas&langs_count=8"
-  />
-</div>
