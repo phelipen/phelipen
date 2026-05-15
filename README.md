@@ -6,7 +6,7 @@ Me chamo Phelipe Nascimento, sou estudante de **Análise e Desenvolvimento de Si
 
 Tenho interesse em criar soluções práticas, funcionais e bem estruturadas, unindo tecnologia, aprendizado constante e resolução de problemas reais. Atualmente venho desenvolvendo projetos próprios, como o **Xerox AV.7**, uma aplicação web full-stack voltada para organização e automação de serviços.
 
-Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end, banco de dados e serviços em nuvem com **AWS**, incluindo **S3**, **RDS** e **EC2**. Também possuo **inglês avançado** e estou sempre buscando evoluir como desenvolvedor, aprendendo novas tecnologias e aplicando esse conhecimento em projetos reais.
+Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end, bancos de dados como **PostgreSQL** e **MySQL**, e serviços em nuvem com **AWS**, incluindo **S3**, **RDS** e **EC2**. Também possuo **inglês avançado** e estou sempre buscando evoluir como desenvolvedor, aprendendo novas tecnologias e aplicando esse conhecimento em projetos reais.
 
 <p align="left">
     <a href="https://xeroxav7.tech" target="_blank">
@@ -59,6 +59,22 @@ Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boo
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
+/>
+<img 
+    align="left" 
+    alt="PostgreSQL"
+    title="PostgreSQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="MySQL"
+    title="MySQL" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
@@ -131,6 +147,16 @@ Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boo
 
 ---
 
+### 🗄️ Banco de Dados
+
+- PostgreSQL
+- MySQL
+- Modelagem de dados
+- Integração entre aplicações web e bancos relacionais
+- Uso de bancos relacionais em ambientes locais e em nuvem
+
+---
+
 ### 🚀 Projeto em destaque
 
 #### Xerox AV.7 — Aplicação Web Full-Stack
@@ -144,6 +170,7 @@ O **Xerox AV.7** é uma aplicação web desenvolvida para facilitar a organizaç
 ### 📚 Atualmente estudando
 
 - Java e Spring Boot
+- PostgreSQL e MySQL
 - AWS, S3, RDS e EC2
 - Desenvolvimento Full Stack
 - Estruturação de aplicações web
