@@ -13,7 +13,7 @@ Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boo
         <img 
             alt="Xerox AV.7" 
             title="Acesse meu projeto Xerox AV.7" 
-            src="https://img.shields.io/badge/Xerox%20AV.7-Projeto%20Online-236ad3?style=for-the-badge&logo=vercel&logoColor=white"
+            src="https://img.shields.io/badge/Projeto%20Online-236ad3?style=for-the-badge&logo=vercel&logoColor=white"
         />
     </a>
     <a href="https://github.com/phelipen?tab=repositories" target="_blank">
