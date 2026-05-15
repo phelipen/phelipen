@@ -6,7 +6,7 @@ Me chamo Phelipe Nascimento, sou estudante de **Análise e Desenvolvimento de Si
 
 Tenho interesse em criar soluções práticas, funcionais e bem estruturadas, unindo tecnologia, aprendizado constante e resolução de problemas reais. Atualmente venho desenvolvendo projetos próprios, como o **Xerox AV.7**, uma aplicação web full-stack voltada para organização e automação de serviços.
 
-Também possuo **inglês avançado** e estou sempre buscando evoluir como desenvolvedor, aprendendo novas tecnologias e aplicando esse conhecimento em projetos reais.
+Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end e ferramentas essenciais para criação de aplicações completas. Também possuo **inglês avançado** e estou sempre buscando evoluir como desenvolvedor, aprendendo novas tecnologias e aplicando esse conhecimento em projetos reais.
 
 <p align="left">
     <a href="https://xeroxav7.tech" target="_blank">
@@ -16,7 +16,7 @@ Também possuo **inglês avançado** e estou sempre buscando evoluir como desenv
             src="https://img.shields.io/badge/Xerox%20AV.7-Projeto%20Online-236ad3?style=for-the-badge&logo=vercel&logoColor=white"
         />
     </a>
-    <a href="https://github.com/pheliped-nascimento?tab=repositories" target="_blank">
+    <a href="https://github.com/phelipen?tab=repositories" target="_blank">
         <img 
             alt="Repositórios" 
             title="Veja meus repositórios no GitHub" 
@@ -36,6 +36,22 @@ Também possuo **inglês avançado** e estou sempre buscando evoluir como desenv
 
 ### 🤖 Linguagens e Tecnologias
 
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Spring Boot"
+    title="Spring Boot" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
+/>
 <img 
     align="left" 
     alt="HTML"
@@ -60,7 +76,6 @@ Também possuo **inglês avançado** e estou sempre buscando evoluir como desenv
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
 />
-
 <img 
     align="left" 
     alt="React"
@@ -77,7 +92,6 @@ Também possuo **inglês avançado** e estou sempre buscando evoluir como desenv
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
 />
-
 <img 
     align="left" 
     alt="Git" 
@@ -112,6 +126,7 @@ O **Xerox AV.7** é uma aplicação web desenvolvida para facilitar a organizaç
 
 ### 📚 Atualmente estudando
 
+- Java e Spring Boot
 - Desenvolvimento Full Stack
 - Estruturação de aplicações web
 - Banco de dados
@@ -129,13 +144,13 @@ O **Xerox AV.7** é uma aplicação web desenvolvida para facilitar a organizaç
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=pheliped-nascimento&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=phelipen&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Linguagens mais usadas" 
     height="200" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=pheliped-nascimento&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=phelipen&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 </p>
