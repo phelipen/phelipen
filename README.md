@@ -1,4 +1,4 @@
-<h1><img align="right" src="./assets/code-and-coffee.svg" width="144" height="64" alt="Robozinho programando ao lado de um café animado" />Olá, eu sou o Phelipe 👋</h1>
+<h1><img align="right" src="./assets/code-and-coffee.svg" width="144" height="40" alt="Robozinho programando ao lado de um café animado" />Olá, eu sou o Phelipe 👋</h1>
 
 **Desenvolvimento de software · Java · Back-end**
 
