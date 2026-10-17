@@ -1,8 +1,4 @@
-<p align="center">
-  <img src="./assets/coffee.svg" width="192" height="144" alt="Xícara de café em pixel art com vapor animado" />
-</p>
-
-# Olá, eu sou o Phelipe 👋
+<h1>Olá, eu sou o Phelipe 👋 <img src="./assets/coffee.svg" width="64" height="48" alt="Café em pixel art com vapor e brilhos animados" /></h1>
 
 **Desenvolvimento de software · Java · Back-end**
 
