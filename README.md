@@ -1,4 +1,4 @@
-<h1>Olá, eu sou o Phelipe 👋 <img src="./assets/coffee.svg" width="64" height="48" alt="Café em pixel art com vapor e brilhos animados" /></h1>
+<h1>Olá, eu sou o Phelipe 👋                           <img src="./assets/coffee.svg" width="64" height="48" alt="Café em pixel art com vapor e brilhos animados" /></h1>
 
 **Desenvolvimento de software · Java · Back-end**
 
