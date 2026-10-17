@@ -2,7 +2,7 @@
 
 **Desenvolvimento de software · Java · Back-end**
 
-Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER**, com foco em **Java e desenvolvimento back-end**. Transformo o que estudo em projetos, construindo APIs e aplicações com Spring Boot e bancos de dados relacionais.
+Sou estudante de **Análise e Desenvolvimento de Sistemas**, com foco em **Java e desenvolvimento back-end**. Transformo o que estudo em projetos, construindo APIs e aplicações com Spring Boot e bancos de dados relacionais.
 
 Sou curioso e sempre gostei de entender como as coisas funcionam além do superficial. Na programação, isso me leva a investigar o porquê das soluções, acompanhar o caminho dos dados e entender como as partes de um sistema se conectam.
 
