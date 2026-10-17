@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="144" height="64" viewBox="0 0 180 80" role="img" aria-labelledby="scene-title scene-desc" shape-rendering="crispEdges">
+<title id="scene-title">Código e café</title><desc id="scene-desc">Robozinho em pixel art digitando no computador ao lado de uma xícara com vapor animado.</desc>
+<style>
+.eye { animation: blink 5s steps(1,end) infinite; transform-box:fill-box; transform-origin:center; }
+.hand { animation: type .7s steps(2,end) infinite; }
+.hand2 { animation-delay:-.35s; }
+.cursor { animation: cursor 1s steps(1,end) infinite; }
+@keyframes blink { 0%,44%,48%,100% { transform:scaleY(1); } 46% { transform:scaleY(.15); } }
+@keyframes type { 0%,100% { transform:translateY(0); } 50% { transform:translateY(2px); } }
+@keyframes cursor { 0%,49% { opacity:1; } 50%,100% { opacity:0; } }
+@media(prefers-reduced-motion:reduce) { .eye,.hand,.cursor { animation:none; } }
+</style>
+<path fill="#334155" d="M28 8h4v8h-4zM20 16h24v4h4v20h-4v4H20v-4h-4V20h4z"/>
+<path fill="#a5dce5" d="M20 20h24v20H20z"/>
+<path fill="#d8f4ed" d="M20 20h24v4H20z"/>
+<path fill="#334155" d="M12 24h4v12h-4zM48 24h4v12h-4z"/>
+<g class="eye" fill="#164e63"><path d="M24 27h4v6h-4zM36 27h4v6h-4z"/></g>
+<path fill="#4c919e" d="M28 36h8v2h-8z"/>
+<path fill="#e9a74b" d="M28 4h4v4h-4z"/>
+<path fill="#334155" d="M24 44h16v4h4v16H20V48h4z"/>
+<path fill="#70b8c7" d="M24 48h16v12H24z"/>
+<path fill="#e9a74b" d="M28 50h8v4h-8z"/>
+<path class="hand" fill="#a5dce5" d="M14 48h6v8h10v4H14z"/>
+<path class="hand hand2" fill="#a5dce5" d="M44 48h6v8h8v4H44z"/>
+<path fill="#334155" d="M54 35h40v27H54z"/>
+<path fill="#102a38" d="M58 39h32v19H58z"/>
+<path fill="#74d4ad" d="M62 43h12v2H62zM62 48h20v2H62zM62 53h8v2h-8z"/>
+<path class="cursor" fill="#e9a74b" d="M73 53h4v2h-4z"/>
+<path fill="#64748b" d="M48 62h50v4H48z"/>
+<path fill="#334155" d="M10 68h154v3H10z"/>
+<svg x="99" y="11" width="69" height="56" viewBox="0 0 96 72">
+
+<style>
+.steam { animation: rise 3s steps(6,end) infinite; }
+.spark { animation: twinkle 3s steps(4,end) infinite; }
+.spark2 { animation-delay: -1.5s; }
+.shimmer { animation: shimmer 4s steps(5,end) infinite; }
+@keyframes twinkle { 0%,100% { opacity:0; } 35%,65% { opacity:1; } }
+@keyframes shimmer { 0%,100% { opacity:.3; } 50% { opacity:1; } }
+.s2 { animation-delay: -1s; }
+.s3 { animation-delay: -2s; }
+@keyframes rise { 0% { opacity:0; transform:translateY(3px); } 25% { opacity:.85; } 75% { opacity:.6; } 100% { opacity:0; transform:translate(2px,-8px); } }
+@media (prefers-reduced-motion:reduce) { .steam { animation:none; opacity:.65; } .spark,.shimmer { animation:none; opacity:.6; } }
+</style>
+<g fill="#94a3b8">
+<path class="steam" d="M30 24h3v-5h-3v-5h3v-4h3v7h-3v4h-3z"/>
+<path class="steam s2" d="M44 22h3v-5h-3v-5h3V8h3v7h-3v4h-3z"/>
+<path class="steam s3" d="M58 24h3v-5h-3v-5h3v-4h3v7h-3v4h-3z"/>
+</g>
+<path fill="#334155" d="M22 30h44v4h12v4h4v12h-4v4H66v6h-4v4H30v-4h-4V38h-4z"/>
+<path fill="#f5d9b0" d="M26 34h36v22h-4v4H34v-4h-4V38h-4z"/>
+<path fill="#fff1d6" d="M30 38h6v14h-6zM34 52h4v4h-4z"/>
+<path fill="#d6a36a" d="M56 38h6v18h-4v4h-8v-4h6z"/>
+<path fill="#f5d9b0" d="M66 38h8v4h4v4h-4v4h-8v-4h8v-4h-8z"/>
+<path fill="#5b3628" d="M26 30h36v4H26z"/>
+<path class="shimmer" fill="#c28b58" d="M30 30h20v2H30z"/>
+<path fill="#334155" d="M18 64h56v4H18z"/>
+<path fill="#d6a36a" d="M22 64h48v2H22z"/>
+<g fill="#e9a74b"><path class="spark" d="M76 18h2v3h3v2h-3v3h-2v-3h-3v-2h3z"/><path class="spark spark2" d="M15 41h2v2h2v2h-2v2h-2v-2h-2v-2h2z"/></g>
+</svg>
+
+</svg>
