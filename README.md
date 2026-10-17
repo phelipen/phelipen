@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/coffee.svg" width="192" height="144" alt="Xícara de café em pixel art com vapor animado" />
+</p>
+
 # Olá, eu sou o Phelipe 👋
 
 **Desenvolvimento de software · Java · Back-end**
@@ -40,14 +44,6 @@ Um projeto para praticar orientação a objetos, persistência com **JPA/Hiberna
 **Stack:** Java · JavaFX · JPA/Hibernate · MySQL · Maven
 
 [Explorar o código →](https://github.com/phelipen/app-livraria)
-
-## Minhas contribuições 🐍
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/phelipen/phelipen/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/phelipen/phelipen/output/github-snake.svg" />
-  <img alt="Animação de uma cobrinha percorrendo meu gráfico de contribuições no GitHub" src="https://raw.githubusercontent.com/phelipen/phelipen/output/github-snake.svg" />
-</picture>
 
 ---
 
