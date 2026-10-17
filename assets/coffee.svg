@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="192" height="144" viewBox="0 0 96 72" role="img" aria-labelledby="title desc" shape-rendering="crispEdges">
+<title id="title">Pausa para um café</title>
+<desc id="desc">Xícara de café em pixel art com três filetes de vapor subindo.</desc>
+<style>
+.steam { animation: rise 3s steps(6,end) infinite; }
+.s2 { animation-delay: -1s; }
+.s3 { animation-delay: -2s; }
+@keyframes rise { 0% { opacity:0; transform:translateY(3px); } 25% { opacity:.85; } 75% { opacity:.6; } 100% { opacity:0; transform:translateY(-8px); } }
+@media (prefers-reduced-motion:reduce) { .steam { animation:none; opacity:.65; } }
+</style>
+<g fill="#94a3b8">
+<path class="steam" d="M30 24h3v-5h-3v-5h3v-4h3v7h-3v4h-3z"/>
+<path class="steam s2" d="M44 22h3v-5h-3v-5h3V8h3v7h-3v4h-3z"/>
+<path class="steam s3" d="M58 24h3v-5h-3v-5h3v-4h3v7h-3v4h-3z"/>
+</g>
+<path fill="#334155" d="M22 30h44v4h12v4h4v12h-4v4H66v6h-4v4H30v-4h-4V38h-4z"/>
+<path fill="#f5d9b0" d="M26 34h36v22h-4v4H34v-4h-4V38h-4z"/>
+<path fill="#fff1d6" d="M30 38h6v14h-6zM34 52h4v4h-4z"/>
+<path fill="#d6a36a" d="M56 38h6v18h-4v4h-8v-4h6z"/>
+<path fill="#f5d9b0" d="M66 38h8v4h4v4h-4v4h-8v-4h8v-4h-8z"/>
+<path fill="#5b3628" d="M26 30h36v4H26z"/>
+<path fill="#9a6342" d="M30 30h20v2H30z"/>
+<path fill="#334155" d="M18 64h56v4H18z"/>
+<path fill="#d6a36a" d="M22 64h48v2H22z"/>
+</svg>
