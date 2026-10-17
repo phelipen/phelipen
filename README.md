@@ -1,180 +1,56 @@
 # 👨🏻‍💻 Phelipe Nascimento
 
-**`Desenvolvedor Full Stack`**
+**Desenvolvimento de Software | Java • React • Back-end**
 
-Me chamo Phelipe Nascimento, sou estudante de **Análise e Desenvolvimento de Sistemas** na Uninter e estou construindo minha trajetória na área de tecnologia com foco em **desenvolvimento web full-stack**.
+Sou estudante de **Análise e Desenvolvimento de Sistemas na UNINTER** e desenvolvo aplicações web e desktop, principalmente com **Java e React**. Gosto de criar soluções práticas, organizar o código de forma clara e entender como as diferentes partes de uma aplicação se conectam.
 
-Tenho interesse em criar soluções práticas, funcionais e bem estruturadas, que possam agregar a sociedade e fazer a diferença resolvendo problemas reais. Atualmente venho desenvolvendo projetos, como o **Xerox AV.7**, uma aplicação web full-stack voltada para organização e automação de serviços utilizado numa gráfica.
+Nos meus projetos, utilizo **Spring Boot, APIs REST, bancos de dados relacionais e ferramentas de infraestrutura** para transformar ideias em sistemas funcionais. Também tenho **inglês avançado**.
 
-Tenho como principal especialidade o desenvolvimento com **Java** e **Spring Boot**, além de conhecimentos em tecnologias front-end como **React**, bancos de dados como **PostgreSQL** e **MySQL**, e serviços em nuvem com **AWS**, incluindo **S3**, **RDS** e **EC2**. Também possuo **inglês avançado**. Estou sempre buscando evoluir como desenvolvedor e alguém que enxerga além da codificação.
-
-<p align="left">
-    <a href="https://xeroxav7.tech" target="_blank">
-        <img 
-            alt="Xerox AV.7" 
-            title="Acesse meu projeto Xerox AV.7" 
-            src="https://img.shields.io/badge/Projeto%20Online-236ad3?style=for-the-badge&logo=vercel&logoColor=white"
-        />
-    </a>
-    <a href="https://github.com/phelipen?tab=repositories" target="_blank">
-        <img 
-            alt="Repositórios" 
-            title="Veja meus repositórios no GitHub" 
-            src="https://img.shields.io/badge/GitHub-Repositórios-181717?style=for-the-badge&logo=github&logoColor=white"
-        />
-    </a>
-    <a href="mailto:pheliped.nascimento@gmail.com">
-        <img 
-            alt="Email" 
-            title="Entre em contato por email" 
-            src="https://img.shields.io/badge/Email-Contato-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
-        />
-    </a>
-</p>
+[🌐 Meu Portfólio](https://phelipen.dev) · [LinkedIn](https://www.linkedin.com/in/phelipe-nascimento/) · [E-mail](mailto:pheliped.nascimento@gmail.com)
 
 ---
 
-### 🤖 Linguagens e Tecnologias
+## 🛠️ Tecnologias e habilidades
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Spring Boot"
-    title="Spring Boot" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="AWS"
-    title="AWS" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" 
-/>
-<img 
-    align="left" 
-    alt="PostgreSQL"
-    title="PostgreSQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="MySQL"
-    title="MySQL" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="JavaScript" 
-    title="JavaScript"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="React"
-    title="React" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Tailwind CSS" 
-    title="Tailwind CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Git" 
-    title="Git"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="GitHub" 
-    title="GitHub"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
-/>
-
-<br/>
-<br/>
+- **Principais:** Java, JavaScript e React
+- **Back-end:** Spring Boot, APIs REST, Spring Security e JPA/Hibernate
+- **Banco de dados:** PostgreSQL, MySQL, SQL e modelagem relacional
+- **Ferramentas:** Git, GitHub, Maven e Docker
+- **Experiência aplicada em projetos:** JavaFX, Keycloak e AWS (EC2, RDS, S3)
 
 ---
 
-### ☁️ Conhecimentos em Cloud
+## 🚀 Projetos em destaque
 
-- AWS S3 para armazenamento de arquivos
-- AWS RDS para banco de dados relacional
-- AWS EC2 para hospedagem e gerenciamento de servidores
-- Noções de deploy, infraestrutura e integração entre aplicação e serviços em nuvem
+### Xerox AV.7 | Aplicação web full-stack
+
+Desenvolvi uma aplicação para uma gráfica e loja de vestuário, com **catálogo dinâmico, carrinho, histórico de orçamentos e cálculo automático de preços** conforme características do serviço, como papel, tamanho, cores e quantidade de páginas.
+
+- Implementei **APIs REST em Java e Spring Boot**, com separação de responsabilidades em camadas.
+- Estruturei a **autenticação e o controle de acesso** com Spring Security e Keycloak.
+- Desenvolvi uma interface responsiva em **React**, integrada às APIs.
+- Trabalhei com **Docker e serviços da AWS** na infraestrutura do projeto.
+
+**Tecnologias:** Java 21, Spring Boot, React, PostgreSQL, Keycloak, Docker e AWS.
+
+🔗 **[Ver apresentação e capturas de tela no GitHub](https://github.com/phelipen/xeroxav7-showcase)**
+
+*O repositório acima apresenta o projeto; a aplicação não está disponível online atualmente.*
+
+### Livraria | Aplicação desktop
+
+Desenvolvi um sistema de gerenciamento de livros e autores com interface em **JavaFX**, operações de cadastro e consulta, além de validações para manter a consistência dos dados.
+
+- Implementei operações de **cadastro, consulta e exclusão**, incluindo prevenção de registros duplicados.
+- Modelei as entidades `Book` e `Author` com relacionamento **Many-to-Many** usando JPA.
+- Estruturei a persistência com **DAO, Hibernate/JPA, JPQL e MySQL**.
+
+**Tecnologias:** Java 21, JavaFX, FXML, CSS, Hibernate/JPA, MySQL e Maven.
+
+🔗 **[Ver código no GitHub](https://github.com/phelipen/app-livraria)**
 
 ---
 
-### 🗄️ Banco de Dados
+## 🌐 Portfólio
 
-- PostgreSQL
-- MySQL
-- Modelagem de dados
-- Integração entre aplicações web e bancos relacionais
-- Uso de bancos relacionais em ambientes locais e em nuvem
-
----
-
-### 🚀 Projeto em destaque
-
-#### Xerox AV.7 — Aplicação Web Full-Stack
-
-O **Xerox AV.7** é uma aplicação web desenvolvida para facilitar a organização, solicitação e gerenciamento de serviços relacionados a xerox, impressão e atendimento digital.
-
-🔗 **Acesse o projeto:** [xeroxav7.tech](https://xeroxav7.tech)
-
----
-
-### 📚 Atualmente estudando
-
-- Java e Spring Boot
-- PostgreSQL e MySQL
-- AWS, S3, RDS e EC2
-- Desenvolvimento Full Stack
-- Estruturação de aplicações web
-- Banco de dados
-- Inteligência Artificial
-- Boas práticas de programação
-- Versionamento com Git e GitHub
+Reuni outros trabalhos e formas de contato em **[phelipen.dev](https://phelipen.dev)**.
